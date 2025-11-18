@@ -74,7 +74,7 @@ Its primary goal is to help businesses make data-driven decisions by identifying
 - Customers in white-collar jobs drive significant revenue
 
 ## Final Conclusion
-The dashboard shows that Blue cardholders, swipe transactions, high-income customers, and the 40–60 age group drive the most revenue. These insights help the business target valuable segments and identify growth opportunities in lower-performing regions 
+The dashboard shows that Blue cardholders, swipe transactions, high-income customers, and the 40–60 age group drive the most revenue. These insights help the business target valuable segments and identify growth opportunities in lower-performing regions
 
 
 
